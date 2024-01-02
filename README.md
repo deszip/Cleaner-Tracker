@@ -2,9 +2,7 @@
 
 # ![Cleaner](https://github.com/deszip/BitBot/raw/master/BB-github.jpg)
 
-# <img src="https://github.com/deszip/BitBot/raw/master/1024x1024.png" width="64"> BitBot
-
-![Build Status](https://app.bitrise.io/app/6db55ab6a5f1d22f/status.svg?token=XJCgNQGZP1aSbbEsrU1Jqw&branch=develop)
+# <img src="https://github.com/deszip/BitBot/raw/master/1024x1024.png" width="64"> Cleaner
 
 ### About
 ...
@@ -12,7 +10,8 @@
 ### Install
 ...
 
-# ![Cleaner](https://github.com/deszip/cleaner-tracker/raw/master/scr-1.png)
+
+# ![Cleaner](https://github.com/deszip/Cleaner-Tracker/blob/9ab408707bb5587c484eb64f90f03fcae102ed00/scr-1.png)
 # ![Cleaner](https://github.com/deszip/cleaner-tracker/raw/master/scr-2.png)
 
 
