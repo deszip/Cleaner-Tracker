@@ -1,4 +1,4 @@
-# Cleaner-Tracker
+# Cleaner
 
 # ![Cleaner](https://github.com/deszip/BitBot/raw/master/BB-github.jpg)
 
@@ -12,9 +12,8 @@
 ### Install
 ...
 
-# ![Cleaner](https://github.com/deszip/BitBot/raw/master/screenshot-1.png)
-# ![Cleaner](https://github.com/deszip/BitBot/raw/master/screenshot-2.png)
-# ![Cleaner](https://github.com/deszip/BitBot/raw/master/screenshot-3.png)
+# ![Cleaner](https://github.com/deszip/cleaner-tracker/raw/master/scr-1.png)
+# ![Cleaner](https://github.com/deszip/cleaner-tracker/raw/master/scr-2.png)
 
 
 ### Feedback
