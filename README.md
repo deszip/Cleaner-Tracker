@@ -14,7 +14,7 @@ All features are free to use but still under development and can be changed in r
 ### Features
 At the moment Cleaner tracks and allows to cleanup next things
 - Derived data
-- Simulators, via `launchctl`
+- Simulators, via `simctl`
 - Simulator caches
 - Device support images
 - Apps archives
