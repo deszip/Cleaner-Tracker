@@ -7,17 +7,22 @@ Please note: The developers of Cleaner have never accessed Xcode's source code. 
 
 ### Install
 Cleaner is in public beta now and available only via [TestFlight](https://example.com).
-All features are free to use but still under development and can be changed in release version.
+All features are free to use but still under development and can be changed in release version.SDK
 
 # ![Cleaner](https://github.com/deszip/Cleaner-Tracker/raw/main/scr-2.png)
 
 ### Features
-At the moment Cleaner tracks and allows to cleanup next things
+At the moment Cleaner tracks and allows to cleanup next things:
 - Derived data
 - Simulators, via `simctl`
 - Simulator caches
 - Device support images
 - Apps archives
+
+More to come:
+- SDK runtimes
+- SwiftUI previews cache
+- Package managers cache (SPM, Carthage, CocoaPods)
 
 This list will grow same as functionality of each module. Feel free to post your feature requests in this repo.
 
