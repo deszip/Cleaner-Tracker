@@ -3,7 +3,7 @@ Issue tracker for Cleaner app
 
 <div align="center">
 
-# [![logo]()<br/>Cleaner]()
+<img src="1024x1024.png" width="200" height="200">
 
 ### App to clean up after Xcode
 
