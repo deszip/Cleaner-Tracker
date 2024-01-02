@@ -5,7 +5,7 @@ Cleaner is designed by developers, for developers. This tool simplifies the proc
 
 ### Install
 Cleaner is in public beta now and available only via [TestFlight](https://example.com).
-All features are free to use but still under development and can be changed in release version.SDK
+All features are free to use but still under development and can be changed in release version.
 
 # ![Cleaner](https://github.com/deszip/Cleaner-Tracker/raw/main/scr-2.png)
 
