@@ -18,13 +18,9 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.tf_url }}" class="btn">Testflight</a>
+        <a href="{{ site.github.tf_url }}" class="btn">TestFlight</a>
         <a href="{{ site.github.new_issue_url }}" class="btn">New issue</a>
-      {% endif %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
     </header>
 
     <main id="content" class="main-content" role="main">
