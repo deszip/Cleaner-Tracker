@@ -25,7 +25,7 @@ More to come:
 This list will grow same as functionality of each module. Feel free to post your feature requests in this repo.
 
 ### Feedback
-We value our users and their feedback. If you encounter any issues or have suggestions for improvement, please contact our support team at raf.rafiki@gmail.com.
+We value our users and their feedback. If you encounter any issues or have suggestions for improvement, please contact our support team at [raf.rafiki@gmail.com](mailto:raf.rafiki@gmail.com).
 
 You can also [create an issue](https://github.com/deszip/Cleaner-Tracker/issues/new) in this repository.
 
