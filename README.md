@@ -4,7 +4,7 @@ Cleaner is designed by developers, for developers. This tool simplifies the proc
 # ![Cleaner](https://github.com/deszip/Cleaner-Tracker/raw/main/scr-1.png)
 
 ### Install
-Cleaner is in public beta now and available only via [TestFlight](https://example.com).
+Cleaner is in public beta now and available only via [TestFlight]([https://example.com](https://testflight.apple.com/join/2rV85hKb)).
 All features are free to use but still under development and can be changed in release version.
 
 # ![Cleaner](https://github.com/deszip/Cleaner-Tracker/raw/main/scr-2.png)
