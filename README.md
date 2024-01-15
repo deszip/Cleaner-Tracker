@@ -12,15 +12,16 @@ All features are free to use but still under development and can be changed in r
 ### Features
 At the moment Cleaner tracks and allows to cleanup next things:
 - Derived data
+- Swift PM caches
 - Simulators, via `simctl`
 - Simulator caches
 - Device support images
 - Apps archives
 
 More to come:
-- SDK runtimes
 - SwiftUI previews cache
-- Package managers cache (SPM, Carthage, CocoaPods)
+- More package managers caches (Carthage, CocoaPods)
+- Widgets
 
 This list will grow same as functionality of each module. Feel free to post your feature requests in this repo.
 
