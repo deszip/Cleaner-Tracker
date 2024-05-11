@@ -1,16 +1,16 @@
 ### About
-Clea is designed by developers, for developers. This tool simplifies the process of decluttering unnecessary files, focusing on those that are either expendable or easily restorable.
+Cleano is designed by developers, for developers. This tool simplifies the process of decluttering unnecessary files, focusing on those that are either expendable or easily restorable.
 
 # ![Cleaner](https://github.com/deszip/Cleaner-Tracker/raw/main/scr-1.png)
 
 ### Install
-Clea is in public beta now and available only via [TestFlight](https://testflight.apple.com/join/2rV85hKb).
+Cleano is in public beta now and available only via [TestFlight](https://testflight.apple.com/join/2rV85hKb).
 All features are free to use but still under development and can be changed in release version.
 
 # ![Cleaner](https://github.com/deszip/Cleaner-Tracker/raw/main/scr-2.png)
 
 ### Features
-At the moment Clea tracks and allows to cleanup next things:
+At the moment Cleano tracks and allows to cleanup next things:
 - Derived data
 - Swift PM caches
 - Simulators, via `simctl`
