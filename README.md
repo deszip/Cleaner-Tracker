@@ -4,8 +4,9 @@ Cleano is designed by developers, for developers. This tool simplifies the proce
 # ![Cleaner](https://github.com/deszip/Cleaner-Tracker/raw/main/scr-1.png)
 
 ### Install
-Cleano is in public beta now and available only via [TestFlight](https://testflight.apple.com/join/2rV85hKb).
-All features are free to use but still under development and can be changed in release version.
+Cleano is available in Mac App Store via this link: https://apps.apple.com/ua/app/cleano/id6469460523
+Sometimes beta builds with new features will be available via TF.
+If you want to help in testing new versions of Cleano drop us a line at [raf.rafiki@gmail.com](mailto:raf.rafiki@gmail.com).
 
 # ![Cleaner](https://github.com/deszip/Cleaner-Tracker/raw/main/scr-2.png)
 
